@@ -1,4 +1,4 @@
-SnapNotes
+# SnapNotes
 SnapNotes is a full stack note taking MERN application.
 
 ## Technologies
