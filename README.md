@@ -25,4 +25,4 @@ Backend
 
 ## Feature Overview
 
-Coming Soon..
+Coming Soon.
